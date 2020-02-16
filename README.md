@@ -1,5 +1,5 @@
 # NNOpenCL
-This is the simplest implementation of Multi Layer Perceptron which train on random data with Stochastic Gradient Descent otpimizer.
+This is the simplest implementation of Multi Layer Perceptron which train on random data with Stochastic Gradient Descent otpimizer. The implementation is done on GPU with OpenCL.
 
 # Compilation & usage
 g++ ./*.cpp -lOpenCL\
